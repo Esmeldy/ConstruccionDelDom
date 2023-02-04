@@ -24,11 +24,7 @@ function crearBody_ModificarEnlace() {
     var hr = document.createElement("hr");
     body.insertBefore(hr, div)
 
-    /** Ahora pasamos a la parte del enlace */
-    //Selecionamos la primera etiqueta "a"
     var a = document.getElementsByTagName("a")[0];
-    // var txtA = document.createElement("Text");
-    // a.appendChild(txtA);
 
     a.firstChild.nodeValue = "Ir a Wikipedia";
     a.setAttribute("href", "http://www.wikipedia.es");
