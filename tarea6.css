@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Unbounded, Calibri, sans-serif;
+}
+
+h1 {
+   color: rgb(221, 142, 128);
+}
+p {
+   font-size: 1.5em;
+   color: rgb(231, 148, 134);
+   border: 1px solid rgb(231, 148, 134);
+   padding: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: rgb(153, 199, 183);
+    color: rgb(246, 246, 246);
+    font-size: 1.2em;
+    border: none;    
+}
+
+button:hover {
+    border-bottom: 3px solid lightcoral;
+    background-color: antiquewhite;
+    color: black;
+    
+}
