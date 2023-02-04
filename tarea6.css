@@ -33,5 +33,9 @@ button:hover {
     border-bottom: 3px solid lightcoral;
     background-color: antiquewhite;
     color: black;
-    
+
+}
+footer {
+    top: 100%;
+    position: relative;
 }
