@@ -7,3 +7,6 @@ de forma dinámica utilizando una función de JavaScript para alterar el DOM
 
 #### Después
 ![alt Text](./img/01.png)
+
+
+https://esmeldy.github.io/ConstruccionDelDom/
