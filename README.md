@@ -2,6 +2,10 @@
 Se trata de construir elementos Html
 de forma dinámica utilizando una función de JavaScript para alterar el DOM
 
+## Enlace
+
+# <https://esmeldy.github.io/ConstruccionDelDom/>
+
 #### Antes
 ![alt Text](./img/00.png)
 
@@ -9,4 +13,4 @@ de forma dinámica utilizando una función de JavaScript para alterar el DOM
 ![alt Text](./img/01.png)
 
 
-https://esmeldy.github.io/ConstruccionDelDom/
+
